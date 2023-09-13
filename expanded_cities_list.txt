@@ -1,0 +1,271 @@
+Albania, Tirana
+Albania, Durrës
+Albania, Vlorë
+Andorra, Andorra la Vella
+Anguilla, The Valley
+Antigua and Barbuda, St. John's
+Antigua and Barbuda, All Saints
+Antigua and Barbuda, Liberta
+Argentina, Buenos Aires
+Argentina, Córdoba
+Argentina, Rosario
+Armenia, Yerevan
+Armenia, Gyumri
+Armenia, Vanadzor
+Aruba, Oranjestad
+Austria, Vienna
+Austria, Graz
+Austria, Linz
+Bahamas, Nassau
+Bahamas, Freeport
+Barbados, Bridgetown
+Belgium, Brussels
+Belgium, Antwerp
+Belgium, Ghent
+Belize, Belize City
+Belize, San Ignacio
+Belize, Belmopan
+Bermuda, Hamilton
+Bosnia and Herzegovina, Sarajevo
+Bosnia and Herzegovina, Banja Luka
+Bosnia and Herzegovina, Tuzla
+Botswana, Gaborone
+Botswana, Francistown
+Botswana, Molepolole
+Brazil, São Paulo
+Brazil, Rio de Janeiro
+Brazil, Brasília
+British Virgin Islands, Road Town
+Brunei, Bandar Seri Begawan
+Bulgaria, Sofia
+Bulgaria, Plovdiv
+Bulgaria, Varna
+Chile, Santiago
+Chile, Valparaíso
+Chile, Concepción
+Colombia, Bogotá
+Colombia, Medellín
+Colombia, Cali
+Cook Islands, Avarua
+Costa Rica, San José
+Costa Rica, Limón
+Costa Rica, San Francisco
+Croatia, Zagreb
+Croatia, Split
+Croatia, Rijeka
+Curaçao, Willemstad
+Cyprus, Nicosia
+Cyprus, Limassol
+Cyprus, Larnaca
+Denmark, Copenhagen
+Denmark, Aarhus
+Denmark, Odense
+Dominica, Roseau
+Dominican Republic, Santo Domingo
+Dominican Republic, Santiago de los Caballeros
+Dominican Republic, Santo Domingo Este
+Ecuador, Quito
+Ecuador, Guayaquil
+Ecuador, Cuenca
+El Salvador, San Salvador
+El Salvador, Santa Ana
+El Salvador, San Miguel
+Estonia, Tallinn
+Estonia, Tartu
+Estonia, Narva
+Falkland Islands, Stanley
+Faroe Islands, Tórshavn
+Fiji, Suva
+Fiji, Lautoka
+Fiji, Nadi
+Finland, Helsinki
+Finland, Espoo
+Finland, Tampere
+France, Paris
+France, Marseille
+France, Lyon
+French Guiana, Cayenne
+French Polynesia, Papeete
+French West Indies, Fort-de-France
+Georgia, Tbilisi
+Georgia, Kutaisi
+Georgia, Batumi
+Germany, Berlin
+Germany, Hamburg
+Germany, Munich
+Gibraltar, Gibraltar
+Greece, Athens
+Greece, Thessaloniki
+Greece, Patras
+Greenland, Nuuk
+Grenada, St. George's
+Guam, Hagåtña
+Guatemala, Guatemala City
+Guatemala, Mixco
+Guatemala, Villa Nueva
+Guyana, Georgetown
+Guyana, Linden
+Guyana, New Amsterdam
+Haiti, Port-au-Prince
+Haiti, Carrefour
+Haiti, Delmas
+Honduras, Tegucigalpa
+Honduras, San Pedro Sula
+Honduras, Choloma
+Hong Kong, Hong Kong
+Hungary, Budapest
+Hungary, Debrecen
+Hungary, Miskolc
+Iceland, Reykjavik
+Indonesia, Jakarta
+Indonesia, Surabaya
+Indonesia, Bandung
+Ireland, Dublin
+Ireland, Cork
+Ireland, Limerick
+Israel, Jerusalem
+Israel, Tel Aviv
+Israel, Haifa
+Italy, Rome
+Italy, Milan
+Italy, Naples
+Jamaica, Kingston
+Jamaica, Spanish Town
+Jamaica, Portmore
+Japan, Tokyo
+Japan, Yokohama
+Japan, Osaka
+Kazakhstan, Nur-Sultan
+Kazakhstan, Almaty
+Kazakhstan, Shymkent
+Kiribati, South Tarawa
+Kosovo, Pristina
+Kyrgyzstan, Bishkek
+Kyrgyzstan, Osh
+Kyrgyzstan, Jalal-Abad
+Latvia, Riga
+Latvia, Daugavpils
+Latvia, Liepāja
+Lesotho, Maseru
+Liechtenstein, Vaduz
+Lithuania, Vilnius
+Lithuania, Kaunas
+Lithuania, Klaipėda
+Luxembourg, Luxembourg City
+Malaysia, Kuala Lumpur
+Malaysia, George Town
+Malaysia, Ipoh
+Malta, Valletta
+Mauritius, Port Louis
+Mayotte, Mamoudzou
+Mexico, Mexico City
+Mexico, Iztapalapa
+Mexico, Ecatepec
+Micronesia, Palikir
+Moldova, Chișinău
+Moldova, Tiraspol
+Moldova, Bălți
+Monaco, Monaco
+Mongolia, Ulaanbaatar
+Mongolia, Darkhan
+Mongolia, Erdenet
+Montenegro, Podgorica
+Montenegro, Nikšić
+Montenegro, Herceg Novi
+Montserrat, Plymouth
+Morocco, Casablanca
+Morocco, Rabat
+Morocco, Fes
+Netherlands, Amsterdam
+Netherlands, Rotterdam
+Netherlands, The Hague
+New Caledonia, Nouméa
+Nicaragua, Managua
+Nicaragua, León
+Nicaragua, Matagalpa
+North Macedonia, Skopje
+North Macedonia, Bitola
+North Macedonia, Kumanovo
+Northern Mariana Islands, Saipan
+Norway, Oslo
+Norway, Bergen
+Norway, Stavanger
+Palestine, Ramallah
+Panama, Panama City
+Panama, San Miguelito
+Panama, Tocumen
+Peru, Lima
+Peru, Arequipa
+Peru, Callao
+Philippines, Quezon City
+Philippines, Manila
+Philippines, Davao City
+Poland, Warsaw
+Poland, Kraków
+Poland, Łódź
+Portugal, Lisbon
+Portugal, Porto
+Portugal, Vila Nova de Gaia
+Puerto Rico, San Juan
+Puerto Rico, Bayamón
+Puerto Rico, Carolina
+Qatar, Doha
+Réunion, Saint-Denis
+Romania, Bucharest
+Romania, Cluj-Napoca
+Romania, Timișoara
+San Marino, San Marino
+São Tomé and Príncipe, São Tomé
+Senegal, Dakar
+Senegal, Touba
+Senegal, Thies
+Serbia, Belgrade
+Serbia, Novi Sad
+Serbia, Niš
+Singapore, Singapore
+Slovakia, Bratislava
+Slovakia, Košice
+Slovakia, Prešov
+Slovenia, Ljubljana
+Slovenia, Maribor
+Slovenia, Celje
+South Africa, Johannesburg
+South Africa, Cape Town
+South Africa, Durban
+Spain, Madrid
+Spain, Barcelona
+Spain, Valencia
+Saint Kitts and Nevis, Basseterre
+Saint Lucia, Castries
+Saint Vincent and the Grenadines, Kingstown
+Suriname, Paramaribo
+Sweden, Stockholm
+Sweden, Gothenburg
+Sweden, Malmö
+Switzerland, Zurich
+Switzerland, Geneva
+Switzerland, Basel
+Taiwan, Taipei
+Taiwan, New Taipei
+Taiwan, Kaohsiung
+Thailand, Bangkok
+Thailand, Nonthaburi
+Thailand, Samut Prakan
+Trinidad and Tobago, Port of Spain
+Trinidad and Tobago, Chaguanas
+Trinidad and Tobago, San Fernando
+Tunisia, Tunis
+Tunisia, Sfax
+Tunisia, Sousse
+Turks and Caicos Islands, Cockburn Town
+United Kingdom, London
+United Kingdom, Birmingham
+United Kingdom, Manchester
+Uruguay, Montevideo
+Uruguay, Salto
+Uruguay, Ciudad de la Costa
+Vanuatu, Port Vila
+Vatican City, Vatican City
+Eswatini, Mbabane
+Eswatini, Manzini
+Eswatini, Lobamba

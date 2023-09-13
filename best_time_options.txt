@@ -1,0 +1,542 @@
+Chicago, Tirana, Albania, $914, 12 hr
+Seoul, Tirana, Albania, $2,517, 17 hr 55 min
+Chicago, Durrës, Albania, $914, 12 hr
+Seoul, Durrës, Albania, $2,517, 17 hr 55 min
+Chicago, Vlorë, Albania, $914, 12 hr
+Seoul, Vlorë, Albania, $2,517, 17 hr 55 min
+Chicago, Andorra la Vella, Andorra, $678, 14 hr 25 min
+Seoul, Andorra la Vella, Andorra, Couldn't load in time
+Chicago, The Valley, Anguilla, $665, 18 hr 10 min
+Seoul, The Valley, Anguilla, $7,266, 30 hr 8 min
+Chicago, St. John's, Antigua and Barbuda, Couldn't load in time
+Seoul, St. John's, Antigua and Barbuda, Couldn't load in time
+Chicago, All Saints, Antigua and Barbuda, Couldn't load in time
+Seoul, All Saints, Antigua and Barbuda, Couldn't load in time
+Chicago, Liberta, Antigua and Barbuda, Couldn't load in time
+Seoul, Liberta, Antigua and Barbuda, Couldn't load in time
+Chicago, Buenos Aires, Argentina, $1,322, 16 hr 30 min
+Seoul, Buenos Aires, Argentina, $2,867, 32 hr 50 min
+Chicago, Córdoba, Argentina, $1,085, 13 hr 41 min
+Seoul, Córdoba, Argentina, $2,867, 31 hr 38 min
+Chicago, Rosario, Argentina, $1,322, 16 hr 30 min
+Seoul, Rosario, Argentina, $2,867, 32 hr 50 min
+Chicago, Yerevan, Armenia, $1,192, 20 hr 35 min
+Seoul, Yerevan, Armenia, $2,295, 21 hr 15 min
+Chicago, Gyumri, Armenia, $1,192, 20 hr 35 min
+Seoul, Gyumri, Armenia, $2,295, 21 hr 15 min
+Chicago, Vanadzor, Armenia, $1,192, 20 hr 35 min
+Seoul, Vanadzor, Armenia, $2,295, 21 hr 15 min
+Chicago, Oranjestad, Aruba, $856, 7 hr 34 min
+Seoul, Oranjestad, Aruba, $3,777, 30 hr 10 min
+Chicago, Vienna, Austria, $1,106, 9 hr
+Seoul, Vienna, Austria, $952, 20 hr 5 min
+Chicago, Graz, Austria, $1,106, 9 hr
+Seoul, Graz, Austria, $952, 20 hr 5 min
+Chicago, Linz, Austria, $1,106, 9 hr
+Seoul, Linz, Austria, $952, 20 hr 5 min
+Chicago, Nassau, Bahamas, $687, 5 hr 9 min
+Seoul, Nassau, Bahamas, $1,787, 31 hr 53 min
+Chicago, Freeport, Bahamas, $920, 5 hr 7 min
+Seoul, Freeport, Bahamas, $1,956, 33 hr 20 min
+Chicago, Bridgetown, Barbados, $639, 14 hr 19 min
+Seoul, Bridgetown, Barbados, $4,047, 24 hr 28 min
+Chicago, Brussels, Belgium, $1,069, 10 hr 50 min
+Seoul, Brussels, Belgium, $1,299, 18 hr 5 min
+Chicago, Antwerp, Belgium, $1,103, 7 hr 55 min
+Seoul, Antwerp, Belgium, $1,299, 18 hr 5 min
+Chicago, Ghent, Belgium, $1,103, 7 hr 55 min
+Seoul, Ghent, Belgium, $1,299, 18 hr 5 min
+Chicago, Belize City, Belize, $690, 6 hr 15 min
+Seoul, Belize City, Belize, $1,599, 33 hr 21 min
+Chicago, San Ignacio, Belize, $690, 6 hr 15 min
+Seoul, San Ignacio, Belize, $1,599, 33 hr 21 min
+Chicago, Belmopan, Belize, $690, 6 hr 15 min
+Seoul, Belmopan, Belize, $1,599, 33 hr 21 min
+Chicago, Hamilton, Bermuda, $557, 15 hr 38 min
+Seoul, Hamilton, Bermuda, $1,912, 32 hr 7 min
+Chicago, Sarajevo, Bosnia and Herzegovina, Couldn't load in time
+Seoul, Sarajevo, Bosnia and Herzegovina, Couldn't load in time
+Chicago, Banja Luka, Bosnia and Herzegovina, Couldn't load in time
+Seoul, Banja Luka, Bosnia and Herzegovina, Couldn't load in time
+Chicago, Tuzla, Bosnia and Herzegovina, Couldn't load in time
+Seoul, Tuzla, Bosnia and Herzegovina, Couldn't load in time
+Chicago, Gaborone, Botswana, $8,342, 30 hr 25 min
+Seoul, Gaborone, Botswana, $2,747, 26 hr 10 min
+Chicago, Francistown, Botswana, Couldn't load in time
+Seoul, Francistown, Botswana, Couldn't load in time
+Chicago, Molepolole, Botswana, $8,342, 30 hr 25 min
+Seoul, Molepolole, Botswana, $2,747, 26 hr 10 min
+Chicago, São Paulo, Brazil, $1,658, 15 hr 50 min
+Seoul, São Paulo, Brazil, $4,229, 30 hr 10 min
+Chicago, Rio de Janeiro, Brazil, $1,161, 12 hr 55 min
+Seoul, Rio de Janeiro, Brazil, $2,833, 26 hr 25 min
+Chicago, Brasília, Brazil, $875, 13 hr 27 min
+Seoul, Brasília, Brazil, $3,802, 30 hr 40 min
+Chicago, Road Town, British Virgin Islands, $923, 7 hr 31 min
+Seoul, Road Town, British Virgin Islands, $2,691, 34 hr 39 min
+Chicago, Bandar Seri Begawan, Brunei, $10,185, 28 hr 25 min
+Seoul, Bandar Seri Begawan, Brunei, $911, 10 hr 45 min
+Chicago, Sofia, Bulgaria, $792, 11 hr 30 min
+Seoul, Sofia, Bulgaria, $2,309, 14 hr 50 min
+Chicago, Plovdiv, Bulgaria, $792, 11 hr 30 min
+Seoul, Plovdiv, Bulgaria, $2,309, 14 hr 50 min
+Chicago, Varna, Bulgaria, $897, 14 hr 55 min
+Seoul, Varna, Bulgaria, $1,285, 20 hr 50 min
+Chicago, Santiago, Chile, $900, 11 hr 35 min
+Seoul, Santiago, Chile, $2,170, 27 hr 5 min
+Chicago, Valparaíso, Chile, $900, 11 hr 35 min
+Seoul, Valparaíso, Chile, $2,170, 27 hr 5 min
+Chicago, Concepción, Chile, $900, 11 hr 35 min
+Seoul, Concepción, Chile, $2,170, 27 hr 5 min
+Chicago, Bogotá, Colombia, $378, 8 hr 28 min
+Seoul, Bogotá, Colombia, $2,059, 21 hr 22 min
+Chicago, Medellín, Colombia, $532, 7 hr 51 min
+Seoul, Medellín, Colombia, $2,238, 25 hr 43 min
+Chicago, Cali, Colombia, $337, 8 hr 13 min
+Seoul, Cali, Colombia, $2,335, 26 hr 30 min
+Chicago, Avarua, Cook Islands, $2,811, 27 hr 43 min
+Seoul, Avarua, Cook Islands, $2,490, 47 hr 40 min
+Chicago, San José, Costa Rica, $371, 7 hr 20 min
+Seoul, San José, Costa Rica, $1,991, 22 hr 56 min
+Chicago, Limón, Costa Rica, Couldn't load in time
+Seoul, Limón, Costa Rica, Couldn't load in time
+Chicago, San Francisco, Costa Rica, Couldn't load in time
+Seoul, San Francisco, Costa Rica, Couldn't load in time
+Chicago, Zagreb, Croatia, $981, 11 hr 40 min
+Seoul, Zagreb, Croatia, $1,523, 18 hr 15 min
+Chicago, Split, Croatia, $962, 12 hr
+Seoul, Split, Croatia, $2,269, 17 hr 45 min
+Chicago, Rijeka, Croatia, $984, 12 hr 20 min
+Seoul, Rijeka, Croatia, $2,153, 30 hr
+Chicago, Willemstad, Curaçao, $690, 7 hr 9 min
+Seoul, Willemstad, Curaçao, $2,189, 33 hr 35 min
+Chicago, Nicosia, Cyprus, $1,349, 12 hr 45 min
+Seoul, Nicosia, Cyprus, $2,375, 14 hr 30 min
+Chicago, Limassol, Cyprus, $1,210, 13 hr 20 min
+Seoul, Limassol, Cyprus, $2,075, 16 hr 35 min
+Chicago, Larnaca, Cyprus, $1,210, 13 hr 20 min
+Seoul, Larnaca, Cyprus, $2,075, 16 hr 35 min
+Chicago, Copenhagen, Denmark, $642, 8 hr 30 min
+Seoul, Copenhagen, Denmark, $1,246, 15 hr 50 min
+Chicago, Aarhus, Denmark, $931, 13 hr 27 min
+Seoul, Aarhus, Denmark, $2,107, 18 hr 40 min
+Chicago, Odense, Denmark, $642, 8 hr 30 min
+Seoul, Odense, Denmark, $1,246, 15 hr 50 min
+Chicago, Roseau, Dominica, $1,127, 10 hr 55 min
+Seoul, Roseau, Dominica, Couldn't load in time
+Chicago, Santo Domingo, Dominican Republic, $297, 6 hr 30 min
+Seoul, Santo Domingo, Dominican Republic, $1,670, 27 hr 15 min
+Chicago, Santiago de los Caballeros, Dominican Republic, $367, 6 hr
+Seoul, Santiago de los Caballeros, Dominican Republic, $1,785, 27 hr 11 min
+Chicago, Santo Domingo Este, Dominican Republic, $297, 6 hr 30 min
+Seoul, Santo Domingo Este, Dominican Republic, $1,670, 27 hr 15 min
+Chicago, Quito, Ecuador, $534, 8 hr 49 min
+Seoul, Quito, Ecuador, $2,660, 24 hr 55 min
+Chicago, Guayaquil, Ecuador, $430, 12 hr 35 min
+Seoul, Guayaquil, Ecuador, $2,477, 26 hr 15 min
+Chicago, Cuenca, Ecuador, $2,745, 17 hr 30 min
+Seoul, Cuenca, Ecuador, $5,064, 36 hr 4 min
+Chicago, San Salvador, El Salvador, $219, 7 hr
+Seoul, San Salvador, El Salvador, $1,427, 18 hr 48 min
+Chicago, Santa Ana, El Salvador, $219, 7 hr
+Seoul, Santa Ana, El Salvador, $1,427, 18 hr 48 min
+Chicago, San Miguel, El Salvador, $219, 7 hr
+Seoul, San Miguel, El Salvador, $1,427, 18 hr 48 min
+Chicago, Tallinn, Estonia, $950, 13 hr
+Seoul, Tallinn, Estonia, $1,580, 16 hr 20 min
+Chicago, Tartu, Estonia, $950, 13 hr
+Seoul, Tartu, Estonia, $1,580, 16 hr 20 min
+Chicago, Narva, Estonia, $950, 13 hr
+Seoul, Narva, Estonia, $1,580, 16 hr 20 min
+Chicago, Stanley, Falkland Islands, Couldn't load in time
+Seoul, Stanley, Falkland Islands, Couldn't load in time
+Chicago, Tórshavn, Faroe Islands, Couldn't load in time
+Seoul, Tórshavn, Faroe Islands, $2,153, 22 hr 50 min
+Chicago, Suva, Fiji, $4,112, 19 hr 48 min
+Seoul, Suva, Fiji, $2,625, 14 hr 40 min
+Chicago, Lautoka, Fiji, $4,112, 19 hr 48 min
+Seoul, Lautoka, Fiji, $2,625, 14 hr 40 min
+Chicago, Nadi, Fiji, $4,112, 19 hr 48 min
+Seoul, Nadi, Fiji, $2,625, 14 hr 40 min
+Chicago, Helsinki, Finland, $772, 10 hr 55 min
+Seoul, Helsinki, Finland, $1,654, 13 hr 50 min
+Chicago, Espoo, Finland, $772, 10 hr 55 min
+Seoul, Espoo, Finland, $1,654, 13 hr 50 min
+Chicago, Tampere, Finland, $772, 10 hr 55 min
+Seoul, Tampere, Finland, $1,654, 13 hr 50 min
+Chicago, Paris, France, $686, 8 hr 10 min
+Seoul, Paris, France, $1,115, 14 hr 5 min
+Chicago, Marseille, France, $1,111, 11 hr 40 min
+Seoul, Marseille, France, $1,783, 17 hr 35 min
+Chicago, Lyon, France, $602, 10 hr 35 min
+Seoul, Lyon, France, $1,992, 17 hr 10 min
+Chicago, Cayenne, French Guiana, Couldn't load in time
+Seoul, Cayenne, French Guiana, Couldn't load in time
+Chicago, Papeete, French Polynesia, $1,791, 14 hr 40 min
+Seoul, Papeete, French Polynesia, $2,286, 21 hr 5 min
+Chicago, Fort-de-France, French West Indies, Couldn't load in time
+Seoul, Fort-de-France, French West Indies, Couldn't load in time
+Chicago, Tbilisi, Georgia, $995, 20 hr 5 min
+Seoul, Tbilisi, Georgia, $993, 14 hr 55 min
+Chicago, Kutaisi, Georgia, Couldn't load in time
+Seoul, Kutaisi, Georgia, Couldn't load in time
+Chicago, Batumi, Georgia, $1,311, 14 hr 35 min
+Seoul, Batumi, Georgia, $2,046, 15 hr 20 min
+Chicago, Berlin, Germany, $844, 10 hr 55 min
+Seoul, Berlin, Germany, $1,372, 17 hr 35 min
+Chicago, Hamburg, Germany, $858, 11 hr
+Seoul, Hamburg, Germany, $1,815, 16 hr 5 min
+Chicago, Munich, Germany, $783, 12 hr 5 min
+Seoul, Munich, Germany, $1,193, 18 hr
+Chicago, Gibraltar, Gibraltar, Couldn't load in time
+Seoul, Gibraltar, Gibraltar, Couldn't load in time
+Chicago, Athens, Greece, $1,390, 13 hr 5 min
+Seoul, Athens, Greece, $862, 22 hr 55 min
+Chicago, Thessaloniki, Greece, $1,769, 12 hr 50 min
+Seoul, Thessaloniki, Greece, $2,367, 14 hr 35 min
+Chicago, Patras, Greece, $1,390, 13 hr 5 min
+Seoul, Patras, Greece, $862, 22 hr 55 min
+Chicago, Nuuk, Greenland, Couldn't load in time
+Seoul, Nuuk, Greenland, Couldn't load in time
+Chicago, St. George's, Grenada, Couldn't load in time
+Seoul, St. George's, Grenada, Couldn't load in time
+Chicago, Hagåtña, Guam, $2,139, 17 hr 35 min
+Seoul, Hagåtña, Guam, $323, 4 hr 25 min
+Chicago, Guatemala City, Guatemala, $322, 9 hr 6 min
+Seoul, Guatemala City, Guatemala, $1,789, 20 hr 55 min
+Chicago, Mixco, Guatemala, $322, 9 hr 6 min
+Seoul, Mixco, Guatemala, $1,789, 20 hr 55 min
+Chicago, Villa Nueva, Guatemala, $322, 9 hr 6 min
+Seoul, Villa Nueva, Guatemala, $1,789, 20 hr 55 min
+Chicago, Georgetown, Guyana, $2,620, 18 hr 45 min
+Seoul, Georgetown, Guyana, $3,708, 32 hr 20 min
+Chicago, Linden, Guyana, $455, 9 hr 35 min
+Seoul, Linden, Guyana, $3,338, 41 hr 58 min
+Chicago, New Amsterdam, Guyana, $455, 9 hr 35 min
+Seoul, New Amsterdam, Guyana, $3,338, 41 hr 58 min
+Chicago, Port-au-Prince, Haiti, $347, 7 hr 7 min
+Seoul, Port-au-Prince, Haiti, $3,183, 32 hr 13 min
+Chicago, Carrefour, Haiti, $347, 7 hr 7 min
+Seoul, Carrefour, Haiti, $3,183, 32 hr 13 min
+Chicago, Delmas, Haiti, $347, 7 hr 7 min
+Seoul, Delmas, Haiti, $3,183, 32 hr 13 min
+Chicago, Tegucigalpa, Honduras, Couldn't load in time
+Seoul, Tegucigalpa, Honduras, Couldn't load in time
+Chicago, San Pedro Sula, Honduras, $313, 6 hr 4 min
+Seoul, San Pedro Sula, Honduras, $2,096, 33 hr 48 min
+Chicago, Choloma, Honduras, $313, 6 hr 4 min
+Seoul, Choloma, Honduras, $2,096, 33 hr 48 min
+Chicago, Hong Kong, Hong Kong, $1,408, 23 hr 45 min
+Seoul, Hong Kong, Hong Kong, $401, 3 hr 45 min
+Chicago, Budapest, Hungary, $805, 10 hr 55 min
+Seoul, Budapest, Hungary, $918, 19 hr 20 min
+Chicago, Debrecen, Hungary, Couldn't load in time
+Seoul, Debrecen, Hungary, Couldn't load in time
+Chicago, Miskolc, Hungary, $805, 10 hr 55 min
+Seoul, Miskolc, Hungary, $1,141, 19 hr 55 min
+Chicago, Reykjavik, Iceland, $980, 6 hr 5 min
+Seoul, Reykjavik, Iceland, $1,648, 26 hr 30 min
+Chicago, Jakarta, Indonesia, $1,561, 23 hr 20 min
+Seoul, Jakarta, Indonesia, $276, 10 hr 55 min
+Chicago, Surabaya, Indonesia, $7,193, 27 hr 20 min
+Seoul, Surabaya, Indonesia, $593, 10 hr 50 min
+Chicago, Bandung, Indonesia, $1,561, 23 hr 20 min
+Seoul, Bandung, Indonesia, $276, 10 hr 55 min
+Chicago, Dublin, Ireland, $816, 7 hr 8 min
+Seoul, Dublin, Ireland, $1,302, 17 hr 30 min
+Chicago, Cork, Ireland, $1,053, 10 hr 36 min
+Seoul, Cork, Ireland, $1,918, 22 hr 35 min
+Chicago, Limerick, Ireland, $816, 7 hr 8 min
+Seoul, Limerick, Ireland, $1,302, 17 hr 30 min
+Chicago, Jerusalem, Israel, $1,642, 14 hr 10 min
+Seoul, Jerusalem, Israel, $1,590, 22 hr 30 min
+Chicago, Tel Aviv, Israel, $1,642, 14 hr 10 min
+Seoul, Tel Aviv, Israel, $1,590, 22 hr 30 min
+Chicago, Haifa, Israel, $1,642, 14 hr 10 min
+Seoul, Haifa, Israel, $1,590, 22 hr 30 min
+Chicago, Rome, Italy, $847, 13 hr 5 min
+Seoul, Rome, Italy, $2,020, 13 hr
+Chicago, Milan, Italy, $746, 13 hr
+Seoul, Milan, Italy, $1,365, 18 hr 35 min
+Chicago, Naples, Italy, $1,236, 10 hr 55 min
+Seoul, Naples, Italy, $2,357, 17 hr 55 min
+Chicago, Kingston, Jamaica, $355, 5 hr 57 min
+Seoul, Kingston, Jamaica, $3,636, 30 hr 35 min
+Chicago, Spanish Town, Jamaica, $355, 5 hr 57 min
+Seoul, Spanish Town, Jamaica, $3,636, 30 hr 35 min
+Chicago, Portmore, Jamaica, $355, 5 hr 57 min
+Seoul, Portmore, Jamaica, $3,636, 30 hr 35 min
+Chicago, Tokyo, Japan, $1,722, 12 hr 50 min
+Seoul, Tokyo, Japan, $487, 2 hr 20 min
+Chicago, Yokohama, Japan, $1,722, 12 hr 50 min
+Seoul, Yokohama, Japan, $487, 2 hr 20 min
+Chicago, Osaka, Japan, $1,680, 19 hr 50 min
+Seoul, Osaka, Japan, $312, 1 hr 50 min
+Chicago, Nur-Sultan, Kazakhstan, Couldn't load in time
+Seoul, Nur-Sultan, Kazakhstan, Couldn't load in time
+Chicago, Almaty, Kazakhstan, $1,299, 20 hr 25 min
+Seoul, Almaty, Kazakhstan, $829, 6 hr 50 min
+Chicago, Shymkent, Kazakhstan, Couldn't load in time
+Seoul, Shymkent, Kazakhstan, $695, 12 hr 35 min
+Chicago, South Tarawa, Kiribati, Couldn't load in time
+Seoul, South Tarawa, Kiribati, Couldn't load in time
+Chicago, Pristina, Kosovo, Couldn't load in time
+Seoul, Pristina, Kosovo, Couldn't load in time
+Chicago, Bishkek, Kyrgyzstan, $1,322, 17 hr 15 min
+Seoul, Bishkek, Kyrgyzstan, $829, 10 hr
+Chicago, Osh, Kyrgyzstan, Couldn't load in time
+Seoul, Osh, Kyrgyzstan, Couldn't load in time
+Chicago, Jalal-Abad, Kyrgyzstan, Couldn't load in time
+Seoul, Jalal-Abad, Kyrgyzstan, Couldn't load in time
+Chicago, Riga, Latvia, $1,059, 13 hr 10 min
+Seoul, Riga, Latvia, $1,466, 17 hr 35 min
+Chicago, Daugavpils, Latvia, $1,059, 13 hr 10 min
+Seoul, Daugavpils, Latvia, $1,466, 17 hr 35 min
+Chicago, Liepāja, Latvia, $1,059, 13 hr 10 min
+Seoul, Liepāja, Latvia, $1,466, 17 hr 35 min
+Chicago, Maseru, Lesotho, $2,910, 37 hr 10 min
+Seoul, Maseru, Lesotho, $2,657, 23 hr 35 min
+Chicago, Vaduz, Liechtenstein, $1,100, 8 hr 35 min
+Seoul, Vaduz, Liechtenstein, $1,430, 19 hr 5 min
+Chicago, Vilnius, Lithuania, $976, 12 hr 45 min
+Seoul, Vilnius, Lithuania, $1,467, 17 hr 45 min
+Chicago, Kaunas, Lithuania, Couldn't load in time
+Seoul, Kaunas, Lithuania, Couldn't load in time
+Chicago, Klaipėda, Lithuania, $976, 12 hr 45 min
+Seoul, Klaipėda, Lithuania, $1,467, 17 hr 45 min
+Chicago, Luxembourg City, Luxembourg, Couldn't load in time
+Seoul, Luxembourg City, Luxembourg, Couldn't load in time
+Chicago, Kuala Lumpur, Malaysia, $1,405, 22 hr 55 min
+Seoul, Kuala Lumpur, Malaysia, $321, 6 hr 30 min
+Chicago, George Town, Malaysia, $1,495, 26 hr 55 min
+Seoul, George Town, Malaysia, $317, 9 hr 10 min
+Chicago, Ipoh, Malaysia, Couldn't load in time
+Seoul, Ipoh, Malaysia, $635, 21 hr 20 min
+Chicago, Valletta, Malta, $1,100, 15 hr 40 min
+Seoul, Valletta, Malta, $2,627, 17 hr 10 min
+Chicago, Port Louis, Mauritius, $2,258, 27 hr 35 min
+Seoul, Port Louis, Mauritius, $2,039, 21 hr 50 min
+Chicago, Mamoudzou, Mayotte, Couldn't load in time
+Seoul, Mamoudzou, Mayotte, $6,088, 35 hr 50 min
+Chicago, Mexico City, Mexico, $357, 4 hr 5 min
+Seoul, Mexico City, Mexico, $1,344, 16 hr 55 min
+Chicago, Iztapalapa, Mexico, Couldn't load in time
+Seoul, Iztapalapa, Mexico, Couldn't load in time
+Chicago, Ecatepec, Mexico, $357, 4 hr 5 min
+Seoul, Ecatepec, Mexico, $1,344, 16 hr 55 min
+Chicago, Palikir, Micronesia, $2,224, 22 hr 20 min
+Seoul, Palikir, Micronesia, Couldn't load in time
+Chicago, Chișinău, Moldova, Couldn't load in time
+Seoul, Chișinău, Moldova, Couldn't load in time
+Chicago, Tiraspol, Moldova, $893, 11 hr 45 min
+Seoul, Tiraspol, Moldova, $1,762, 14 hr 45 min
+Chicago, Bălți, Moldova, $893, 11 hr 45 min
+Seoul, Bălți, Moldova, $1,762, 14 hr 45 min
+Chicago, Monaco, Monaco, Couldn't load in time
+Seoul, Monaco, Monaco, Couldn't load in time
+Chicago, Ulaanbaatar, Mongolia, $1,770, 21 hr
+Seoul, Ulaanbaatar, Mongolia, $529, 3 hr 30 min
+Chicago, Darkhan, Mongolia, $1,770, 21 hr
+Seoul, Darkhan, Mongolia, $529, 3 hr 30 min
+Chicago, Erdenet, Mongolia, $1,770, 21 hr
+Seoul, Erdenet, Mongolia, $529, 3 hr 30 min
+Chicago, Podgorica, Montenegro, $1,152, 12 hr 20 min
+Seoul, Podgorica, Montenegro, $2,120, 16 hr 5 min
+Chicago, Nikšić, Montenegro, Couldn't load in time
+Seoul, Nikšić, Montenegro, Couldn't load in time
+Chicago, Herceg Novi, Montenegro, $1,233, 11 hr 30 min
+Seoul, Herceg Novi, Montenegro, $2,356, 29 hr
+Chicago, Plymouth, Montserrat, Couldn't load in time
+Seoul, Plymouth, Montserrat, Couldn't load in time
+Chicago, Casablanca, Morocco, $1,211, 12 hr 5 min
+Seoul, Casablanca, Morocco, $1,333, 19 hr 55 min
+Chicago, Rabat, Morocco, $1,376, 14 hr 35 min
+Seoul, Rabat, Morocco, $2,255, 18 hr 45 min
+Chicago, Fes, Morocco, $1,117, 26 hr 31 min
+Seoul, Fes, Morocco, $4,045, 21 hr 55 min
+Chicago, Amsterdam, Netherlands, $880, 8 hr 10 min
+Seoul, Amsterdam, Netherlands, $1,176, 13 hr 50 min
+Chicago, Rotterdam, Netherlands, $880, 8 hr 10 min
+Seoul, Rotterdam, Netherlands, $1,176, 13 hr 50 min
+Chicago, The Hague, Netherlands, $880, 8 hr 10 min
+Seoul, The Hague, Netherlands, $1,176, 13 hr 50 min
+Chicago, Nouméa, New Caledonia, $3,009, 26 hr 55 min
+Seoul, Nouméa, New Caledonia, $2,118, 18 hr
+Chicago, Managua, Nicaragua, $262, 6 hr 47 min
+Seoul, Managua, Nicaragua, $2,280, 32 hr 58 min
+Chicago, León, Nicaragua, $262, 6 hr 47 min
+Seoul, León, Nicaragua, $2,280, 32 hr 58 min
+Chicago, Matagalpa, Nicaragua, $262, 6 hr 47 min
+Seoul, Matagalpa, Nicaragua, $2,280, 32 hr 58 min
+Chicago, Skopje, North Macedonia, $950, 12 hr 35 min
+Seoul, Skopje, North Macedonia, $1,574, 14 hr 50 min
+Chicago, Bitola, North Macedonia, $950, 12 hr 35 min
+Seoul, Bitola, North Macedonia, $1,574, 14 hr 50 min
+Chicago, Kumanovo, North Macedonia, $950, 12 hr 35 min
+Seoul, Kumanovo, North Macedonia, $1,574, 14 hr 50 min
+Chicago, Saipan, Northern Mariana Islands, $2,269, 32 hr 15 min
+Seoul, Saipan, Northern Mariana Islands, $338, 4 hr 30 min
+Chicago, Oslo, Norway, $645, 11 hr 25 min
+Seoul, Oslo, Norway, $1,211, 16 hr 55 min
+Chicago, Bergen, Norway, $695, 10 hr 40 min
+Seoul, Bergen, Norway, $1,626, 18 hr
+Chicago, Stavanger, Norway, $655, 10 hr 30 min
+Seoul, Stavanger, Norway, $2,755, 16 hr 55 min
+Chicago, Ramallah, Palestine, Couldn't load in time
+Seoul, Ramallah, Palestine, Couldn't load in time
+Chicago, Panama City, Panama, $474, 5 hr 33 min
+Seoul, Panama City, Panama, $1,906, 23 hr 57 min
+Chicago, San Miguelito, Panama, $474, 5 hr 33 min
+Seoul, San Miguelito, Panama, $1,906, 23 hr 57 min
+Chicago, Tocumen, Panama, Couldn't load in time
+Seoul, Tocumen, Panama, Couldn't load in time
+Chicago, Lima, Peru, $612, 9 hr 57 min
+Seoul, Lima, Peru, $1,922, 22 hr 45 min
+Chicago, Arequipa, Peru, $896, 16 hr 17 min
+Seoul, Arequipa, Peru, $3,753, 29 hr 50 min
+Chicago, Callao, Peru, $612, 9 hr 57 min
+Seoul, Callao, Peru, $1,922, 22 hr 45 min
+Chicago, Quezon City, Philippines, $1,656, 22 hr 10 min
+Seoul, Quezon City, Philippines, $245, 4 hr 15 min
+Chicago, Manila, Philippines, $1,656, 22 hr 10 min
+Seoul, Manila, Philippines, $245, 4 hr 15 min
+Chicago, Davao City, Philippines, $2,253, 27 hr 10 min
+Seoul, Davao City, Philippines, $231, 10 hr 25 min
+Chicago, Warsaw, Poland, $1,122, 9 hr 5 min
+Seoul, Warsaw, Poland, $1,581, 12 hr 55 min
+Chicago, Kraków, Poland, $794, 11 hr 5 min
+Seoul, Kraków, Poland, $1,197, 16 hr 30 min
+Chicago, Łódź, Poland, $1,122, 9 hr 5 min
+Seoul, Łódź, Poland, $1,581, 12 hr 55 min
+Chicago, Lisbon, Portugal, $992, 8 hr
+Seoul, Lisbon, Portugal, $1,330, 26 hr
+Chicago, Porto, Portugal, $840, 14 hr 5 min
+Seoul, Porto, Portugal, $1,609, 19 hr 45 min
+Chicago, Vila Nova de Gaia, Portugal, $840, 14 hr 5 min
+Seoul, Vila Nova de Gaia, Portugal, $1,609, 19 hr 45 min
+Chicago, San Juan, Puerto Rico, $238, 4 hr 49 min
+Seoul, San Juan, Puerto Rico, $2,633, 19 hr 32 min
+Chicago, Bayamón, Puerto Rico, $238, 4 hr 49 min
+Seoul, Bayamón, Puerto Rico, $2,633, 19 hr 32 min
+Chicago, Carolina, Puerto Rico, $238, 4 hr 49 min
+Seoul, Carolina, Puerto Rico, $2,633, 19 hr 32 min
+Chicago, Doha, Qatar, $1,166, 19 hr 35 min
+Seoul, Doha, Qatar, $1,592, 10 hr 15 min
+Chicago, Saint-Denis, Réunion, $2,182, 31 hr 50 min
+Seoul, Saint-Denis, Réunion, $2,751, 27 hr 20 min
+Chicago, Bucharest, Romania, $813, 12 hr
+Seoul, Bucharest, Romania, $943, 31 hr 45 min
+Chicago, Cluj-Napoca, Romania, $1,000, 11 hr 20 min
+Seoul, Cluj-Napoca, Romania, $2,531, 18 hr 20 min
+Chicago, Timișoara, Romania, $1,108, 11 hr 20 min
+Seoul, Timișoara, Romania, $2,187, 16 hr 55 min
+Chicago, San Marino, San Marino, Couldn't load in time
+Seoul, San Marino, San Marino, Couldn't load in time
+Chicago, São Tomé, São Tomé and Príncipe, Couldn't load in time
+Seoul, São Tomé, São Tomé and Príncipe, Couldn't load in time
+Chicago, Dakar, Senegal, $1,682, 22 hr 20 min
+Seoul, Dakar, Senegal, $2,195, 27 hr 55 min
+Chicago, Touba, Senegal, $1,682, 22 hr 20 min
+Seoul, Touba, Senegal, $2,195, 27 hr 55 min
+Chicago, Thies, Senegal, $1,682, 22 hr 20 min
+Seoul, Thies, Senegal, $2,195, 27 hr 55 min
+Chicago, Belgrade, Serbia, $1,134, 10 hr 55 min
+Seoul, Belgrade, Serbia, $821, 36 hr 50 min
+Chicago, Novi Sad, Serbia, $1,134, 10 hr 55 min
+Seoul, Novi Sad, Serbia, $1,477, 29 hr 55 min
+Chicago, Niš, Serbia, $1,211, 22 hr 35 min
+Seoul, Niš, Serbia, Couldn't load in time
+Chicago, Singapore, Singapore, Couldn't load in time
+Seoul, Singapore, Singapore, Couldn't load in time
+Chicago, Bratislava, Slovakia, $1,106, 9 hr
+Seoul, Bratislava, Slovakia, $952, 20 hr 5 min
+Chicago, Košice, Slovakia, $1,140, 13 hr 5 min
+Seoul, Košice, Slovakia, $1,141, 19 hr 55 min
+Chicago, Prešov, Slovakia, $1,140, 13 hr 5 min
+Seoul, Prešov, Slovakia, $1,141, 19 hr 55 min
+Chicago, Ljubljana, Slovenia, $811, 13 hr 30 min
+Seoul, Ljubljana, Slovenia, $2,501, 14 hr 55 min
+Chicago, Maribor, Slovenia, $1,106, 9 hr
+Seoul, Maribor, Slovenia, $952, 20 hr 5 min
+Chicago, Celje, Slovenia, $811, 13 hr 30 min
+Seoul, Celje, Slovenia, $2,501, 14 hr 55 min
+Chicago, Johannesburg, South Africa, $2,010, 18 hr 15 min
+Seoul, Johannesburg, South Africa, $1,445, 25 hr 25 min
+Chicago, Cape Town, South Africa, $2,259, 22 hr
+Seoul, Cape Town, South Africa, $1,663, 24 hr 30 min
+Chicago, Durban, South Africa, $2,471, 36 hr 50 min
+Seoul, Durban, South Africa, $2,153, 23 hr 40 min
+Chicago, Madrid, Spain, $751, 12 hr 15 min
+Seoul, Madrid, Spain, $1,231, 20 hr 5 min
+Chicago, Barcelona, Spain, $678, 14 hr 25 min
+Seoul, Barcelona, Spain, $1,493, 29 hr 25 min
+Chicago, Valencia, Spain, $1,016, 12 hr 30 min
+Seoul, Valencia, Spain, $1,915, 18 hr 15 min
+Chicago, Basseterre, Saint Kitts and Nevis, Couldn't load in time
+Seoul, Basseterre, Saint Kitts and Nevis, Couldn't load in time
+Chicago, Castries, Saint Lucia, Couldn't load in time
+Seoul, Castries, Saint Lucia, Couldn't load in time
+Chicago, Kingstown, Saint Vincent and the Grenadines, Couldn't load in time
+Seoul, Kingstown, Saint Vincent and the Grenadines, Couldn't load in time
+Chicago, Paramaribo, Suriname, $4,090, 12 hr 4 min
+Seoul, Paramaribo, Suriname, Couldn't load in time
+Chicago, Stockholm, Sweden, $621, 8 hr 25 min
+Seoul, Stockholm, Sweden, $1,579, 16 hr 45 min
+Chicago, Gothenburg, Sweden, $586, 11 hr 21 min
+Seoul, Gothenburg, Sweden, $1,813, 21 hr 20 min
+Chicago, Malmö, Sweden, $642, 8 hr 30 min
+Seoul, Malmö, Sweden, $1,246, 15 hr 50 min
+Chicago, Zurich, Switzerland, $1,100, 8 hr 35 min
+Seoul, Zurich, Switzerland, $1,133, 25 hr 15 min
+Chicago, Geneva, Switzerland, $596, 11 hr 10 min
+Seoul, Geneva, Switzerland, $1,425, 27 hr 30 min
+Chicago, Basel, Switzerland, $5,149, 37 hr 30 min
+Seoul, Basel, Switzerland, $3,047, 19 hr 58 min
+Chicago, Taipei, Taiwan, $1,322, 19 hr 10 min
+Seoul, Taipei, Taiwan, $218, 2 hr 35 min
+Chicago, New Taipei, Taiwan, Couldn't load in time
+Seoul, New Taipei, Taiwan, Couldn't load in time
+Chicago, Kaohsiung, Taiwan, $2,083, 31 hr 45 min
+Seoul, Kaohsiung, Taiwan, $375, 3 hr
+Chicago, Bangkok, Thailand, $1,711, 22 hr 50 min
+Seoul, Bangkok, Thailand, $255, 5 hr 35 min
+Chicago, Nonthaburi, Thailand, Couldn't load in time
+Seoul, Nonthaburi, Thailand, $379, 5 hr 45 min
+Chicago, Samut Prakan, Thailand, Couldn't load in time
+Seoul, Samut Prakan, Thailand, Couldn't load in time
+Chicago, Port of Spain, Trinidad and Tobago, Couldn't load in time
+Seoul, Port of Spain, Trinidad and Tobago, Couldn't load in time
+Chicago, Chaguanas, Trinidad and Tobago, Couldn't load in time
+Seoul, Chaguanas, Trinidad and Tobago, Couldn't load in time
+Chicago, San Fernando, Trinidad and Tobago, Couldn't load in time
+Seoul, San Fernando, Trinidad and Tobago, Couldn't load in time
+Chicago, Tunis, Tunisia, $1,391, 11 hr 30 min
+Seoul, Tunis, Tunisia, $1,135, 33 hr 50 min
+Chicago, Sfax, Tunisia, $1,391, 11 hr 30 min
+Seoul, Sfax, Tunisia, $1,554, 23 hr 40 min
+Chicago, Sousse, Tunisia, $1,391, 11 hr 30 min
+Seoul, Sousse, Tunisia, $1,554, 23 hr 40 min
+Chicago, Cockburn Town, Turks and Caicos Islands, Couldn't load in time
+Seoul, Cockburn Town, Turks and Caicos Islands, Couldn't load in time
+Chicago, London, United Kingdom, $745, 7 hr 45 min
+Seoul, London, United Kingdom, $1,225, 20 hr 40 min
+Chicago, Birmingham, United Kingdom, $851, 9 hr 45 min
+Seoul, Birmingham, United Kingdom, $1,898, 16 hr 40 min
+Chicago, Manchester, United Kingdom, $732, 11 hr 35 min
+Seoul, Manchester, United Kingdom, $1,358, 17 hr 40 min
+Chicago, Montevideo, Uruguay, $1,005, 14 hr 17 min
+Seoul, Montevideo, Uruguay, $3,449, 30 hr 30 min
+Chicago, Salto, Uruguay, $1,005, 14 hr 17 min
+Seoul, Salto, Uruguay, $3,449, 30 hr 30 min
+Chicago, Ciudad de la Costa, Uruguay, $1,005, 14 hr 17 min
+Seoul, Ciudad de la Costa, Uruguay, $3,449, 30 hr 30 min
+Chicago, Port Vila, Vanuatu, $4,748, 31 hr 8 min
+Seoul, Port Vila, Vanuatu, $3,874, 22 hr 5 min
+Chicago, Vatican City, Vatican City, Couldn't load in time
+Seoul, Vatican City, Vatican City, Couldn't load in time
+Chicago, Mbabane, Eswatini, $3,963, 34 hr 20 min
+Seoul, Mbabane, Eswatini, $2,964, 22 hr 40 min
+Chicago, Manzini, Eswatini, $3,963, 34 hr 20 min
+Seoul, Manzini, Eswatini, $2,964, 22 hr 40 min
+Chicago, Lobamba, Eswatini, $3,963, 34 hr 20 min
+Seoul, Lobamba, Eswatini, $2,964, 22 hr 40 min

@@ -1,0 +1,244 @@
+Indianapolis, Tirana, Albania, $1,799, 17 hr 15 min
+Seoul, Tirana, Albania, $2,145, 17 hr 55 min
+Indianapolis, Andorra la Vella, Andorra, $986, 15 hr 46 min
+Seoul, Andorra la Vella, Andorra, None
+Indianapolis, The Valley, Anguilla, $1,037, 18 hr 36 min
+Seoul, The Valley, Anguilla, $4,613, 36 hr 35 min
+Indianapolis, St. John's, Antigua and Barbuda, None
+Seoul, St. John's, Antigua and Barbuda, None
+Indianapolis, Buenos Aires, Argentina, $1,471, 20 hr 55 min
+Seoul, Buenos Aires, Argentina, $1,998, 33 hr
+Indianapolis, Yerevan, Armenia, $1,504, 22 hr 48 min
+Seoul, Yerevan, Armenia, $1,505, 22 hr 5 min
+Indianapolis, Oranjestad, Aruba, $497, 47 hr 5 min
+Seoul, Oranjestad, Aruba, $2,000, 32 hr 45 min
+Indianapolis, Vienna, Austria, $1,152, 21 hr 5 min
+Seoul, Vienna, Austria, $730, 50 hr 10 min
+Indianapolis, Nassau, Bahamas, $570, 5 hr 36 min
+Seoul, Nassau, Bahamas, None
+Indianapolis, Bridgetown, Barbados, $719, 19 hr 1 min
+Seoul, Bridgetown, Barbados, $1,719, 32 hr 30 min
+Indianapolis, Brussels, Belgium, $944, 12 hr 45 min
+Seoul, Brussels, Belgium, $1,316, 18 hr 5 min
+Indianapolis, Belize City, Belize, $751, 30 hr 17 min
+Seoul, Belize City, Belize, $1,599, 33 hr 21 min
+Indianapolis, Hamilton, Bermuda, $749, 6 hr 59 min
+Seoul, Hamilton, Bermuda, $1,912, 32 hr 7 min
+Indianapolis, Sarajevo, Bosnia and Herzegovina, None
+Seoul, Sarajevo, Bosnia and Herzegovina, None
+Indianapolis, Gaborone, Botswana, $2,918, 54 hr 26 min
+Seoul, Gaborone, Botswana, $2,617, 26 hr 10 min
+Indianapolis, São Paulo, Brazil, $1,591, 28 hr 12 min
+Seoul, São Paulo, Brazil, $2,419, 58 hr
+Indianapolis, Road Town, British Virgin Islands, $915, 29 hr 42 min
+Seoul, Road Town, British Virgin Islands, $2,691, 34 hr 39 min
+Indianapolis, Bandar Seri Begawan, Brunei, $15,458, 29 hr 35 min
+Seoul, Bandar Seri Begawan, Brunei, $738, 16 hr 50 min
+Indianapolis, Sofia, Bulgaria, $1,120, 15 hr 57 min
+Seoul, Sofia, Bulgaria, $1,838, 30 hr 15 min
+Indianapolis, Santiago, Chile, $900, 16 hr 55 min
+Seoul, Santiago, Chile, $1,689, 32 hr 5 min
+Indianapolis, Bogotá, Colombia, $433, 20 hr 5 min
+Seoul, Bogotá, Colombia, $1,765, 24 hr 20 min
+Indianapolis, Avarua, Cook Islands, $7,674, 23 hr 55 min
+Seoul, Avarua, Cook Islands, $2,278, 47 hr 40 min
+Indianapolis, San José, Costa Rica, $390, 21 hr 33 min
+Seoul, San José, Costa Rica, $1,583, 32 hr 40 min
+Indianapolis, Zagreb, Croatia, $1,289, 18 hr 28 min
+Seoul, Zagreb, Croatia, $950, 44 hr 25 min
+Indianapolis, Willemstad, Curaçao, $933, 24 hr 36 min
+Seoul, Willemstad, Curaçao, $1,822, 33 hr 35 min
+Indianapolis, Nicosia, Cyprus, $2,870, 20 hr 3 min
+Seoul, Nicosia, Cyprus, $2,040, 14 hr 30 min
+Indianapolis, Copenhagen, Denmark, $869, 15 hr 47 min
+Seoul, Copenhagen, Denmark, $1,014, 17 hr 50 min
+Indianapolis, Roseau, Dominica, $1,288, 11 hr 7 min
+Seoul, Roseau, Dominica, $4,646, 37 hr 5 min
+Indianapolis, Santo Domingo, Dominican Republic, $362, 8 hr 16 min
+Seoul, Santo Domingo, Dominican Republic, None
+Indianapolis, Quito, Ecuador, $571, 18 hr 5 min
+Seoul, Quito, Ecuador, $2,233, 33 hr 21 min
+Indianapolis, San Salvador, El Salvador, $345, 21 hr 3 min
+Seoul, San Salvador, El Salvador, $1,427, 18 hr 48 min
+Indianapolis, Tallinn, Estonia, $4,389, 21 hr 26 min
+Seoul, Tallinn, Estonia, $1,580, 16 hr 20 min
+Indianapolis, Stanley, Falkland Islands, None
+Seoul, Stanley, Falkland Islands, None
+Indianapolis, Tórshavn, Faroe Islands, None
+Seoul, Tórshavn, Faroe Islands, $2,142, 33 hr 45 min
+Indianapolis, Suva, Fiji, $2,127, 42 hr 12 min
+Seoul, Suva, Fiji, $1,993, 20 hr 5 min
+Indianapolis, Helsinki, Finland, $509, 15 hr 30 min
+Seoul, Helsinki, Finland, $1,590, 30 hr 30 min
+Indianapolis, Paris, France, $1,094, 19 hr 10 min
+Seoul, Paris, France, $907, 32 hr 45 min
+Indianapolis, Cayenne, French Guiana, None
+Seoul, Cayenne, French Guiana, None
+Indianapolis, Papeete, French Polynesia, $1,570, 19 hr 47 min
+Seoul, Papeete, French Polynesia, $1,875, 43 hr 15 min
+Indianapolis, Fort-de-France, French West Indies, None
+Seoul, Fort-de-France, French West Indies, None
+Indianapolis, Tbilisi, Georgia, $3,419, 20 hr 15 min
+Seoul, Tbilisi, Georgia, $993, 14 hr 55 min
+Indianapolis, Berlin, Germany, $1,295, 34 hr 35 min
+Seoul, Berlin, Germany, $848, 48 hr 50 min
+Indianapolis, Gibraltar, Gibraltar, None
+Seoul, Gibraltar, Gibraltar, None
+Indianapolis, Athens, Greece, $1,370, 16 hr 18 min
+Seoul, Athens, Greece, $731, 34 hr
+Indianapolis, Nuuk, Greenland, None
+Seoul, Nuuk, Greenland, None
+Indianapolis, St. George's, Grenada, None
+Seoul, St. George's, Grenada, None
+Indianapolis, Hagåtña, Guam, $2,140, 21 hr 40 min
+Seoul, Hagåtña, Guam, $323, 4 hr 25 min
+Indianapolis, Guatemala City, Guatemala, $388, 22 hr 48 min
+Seoul, Guatemala City, Guatemala, $1,418, 32 hr 39 min
+Indianapolis, Georgetown, Guyana, $1,520, 25 hr 44 min
+Seoul, Georgetown, Guyana, $3,494, 34 hr 45 min
+Indianapolis, Port-au-Prince, Haiti, $428, 31 hr 37 min
+Seoul, Port-au-Prince, Haiti, $3,240, 32 hr 13 min
+Indianapolis, Tegucigalpa, Honduras, None
+Seoul, Tegucigalpa, Honduras, None
+Indianapolis, Hong Kong, Hong Kong, $1,985, 25 hr 30 min
+Seoul, Hong Kong, Hong Kong, $295, 25 hr 15 min
+Indianapolis, Budapest, Hungary, $1,332, 18 hr
+Seoul, Budapest, Hungary, $686, 48 hr 25 min
+Indianapolis, Reykjavik, Iceland, $1,310, 12 hr 15 min
+Seoul, Reykjavik, Iceland, $1,648, 26 hr 30 min
+Indianapolis, Jakarta, Indonesia, $2,106, 36 hr 5 min
+Seoul, Jakarta, Indonesia, $274, 10 hr 55 min
+Indianapolis, Dublin, Ireland, $1,062, 13 hr 31 min
+Seoul, Dublin, Ireland, $1,208, 17 hr 45 min
+Indianapolis, Jerusalem, Israel, $1,577, 25 hr 22 min
+Seoul, Jerusalem, Israel, $965, 45 hr 30 min
+Indianapolis, Rome, Italy, $1,213, 20 hr 23 min
+Seoul, Rome, Italy, $670, 51 hr 15 min
+Indianapolis, Kingston, Jamaica, $474, 30 hr 27 min
+Seoul, Kingston, Jamaica, $2,097, 34 hr 6 min
+Indianapolis, Tokyo, Japan, $1,372, 18 hr 20 min
+Seoul, Tokyo, Japan, $371, 2 hr 20 min
+Indianapolis, Nur-Sultan, Kazakhstan, None
+Seoul, Nur-Sultan, Kazakhstan, None
+Indianapolis, South Tarawa, Kiribati, None
+Seoul, South Tarawa, Kiribati, None
+Indianapolis, Pristina, Kosovo, None
+Seoul, Pristina, Kosovo, None
+Indianapolis, Bishkek, Kyrgyzstan, $2,641, 22 hr 23 min
+Seoul, Bishkek, Kyrgyzstan, $829, 10 hr
+Indianapolis, Riga, Latvia, $1,525, 14 hr 39 min
+Seoul, Riga, Latvia, $1,466, 17 hr 35 min
+Indianapolis, Maseru, Lesotho, $3,016, 40 hr 47 min
+Seoul, Maseru, Lesotho, $2,528, 23 hr 35 min
+Indianapolis, Vaduz, Liechtenstein, $996, 11 hr 42 min
+Seoul, Vaduz, Liechtenstein, $1,120, 34 hr 15 min
+Indianapolis, Vilnius, Lithuania, $1,264, 15 hr 35 min
+Seoul, Vilnius, Lithuania, $1,581, 17 hr 45 min
+Indianapolis, Luxembourg City, Luxembourg, None
+Seoul, Luxembourg City, Luxembourg, None
+Indianapolis, Kuala Lumpur, Malaysia, $2,208, 33 hr 28 min
+Seoul, Kuala Lumpur, Malaysia, $293, 6 hr 30 min
+Indianapolis, Valletta, Malta, $1,745, 20 hr 27 min
+Seoul, Valletta, Malta, $1,835, 27 hr 30 min
+Indianapolis, Port Louis, Mauritius, $2,046, 36 hr 58 min
+Seoul, Port Louis, Mauritius, $1,948, 30 hr
+Indianapolis, Mamoudzou, Mayotte, None
+Seoul, Mamoudzou, Mayotte, $6,088, 35 hr 50 min
+Indianapolis, Mexico City, Mexico, $597, 11 hr
+Seoul, Mexico City, Mexico, $1,344, 22 hr 10 min
+Indianapolis, Palikir, Micronesia, $2,465, 26 hr 25 min
+Seoul, Palikir, Micronesia, None
+Indianapolis, Chișinău, Moldova, None
+Seoul, Chișinău, Moldova, None
+Indianapolis, Monaco, Monaco, None
+Seoul, Monaco, Monaco, None
+Indianapolis, Ulaanbaatar, Mongolia, $2,752, 26 hr 8 min
+Seoul, Ulaanbaatar, Mongolia, $417, 3 hr 45 min
+Indianapolis, Podgorica, Montenegro, $2,419, 17 hr 52 min
+Seoul, Podgorica, Montenegro, $1,266, 32 hr 20 min
+Indianapolis, Plymouth, Montserrat, None
+Seoul, Plymouth, Montserrat, None
+Indianapolis, Casablanca, Morocco, $1,391, 15 hr 35 min
+Seoul, Casablanca, Morocco, $1,173, 68 hr 15 min
+Indianapolis, Amsterdam, Netherlands, $898, 15 hr 26 min
+Seoul, Amsterdam, Netherlands, $954, 56 hr 55 min
+Indianapolis, Nouméa, New Caledonia, $4,104, 32 hr 13 min
+Seoul, Nouméa, New Caledonia, $1,442, 26 hr
+Indianapolis, Managua, Nicaragua, $377, 20 hr 50 min
+Seoul, Managua, Nicaragua, $1,984, 32 hr 58 min
+Indianapolis, Skopje, North Macedonia, $2,039, 17 hr 42 min
+Seoul, Skopje, North Macedonia, $1,324, 36 hr 25 min
+Indianapolis, Saipan, Northern Mariana Islands, $2,379, 33 hr 35 min
+Seoul, Saipan, Northern Mariana Islands, $325, 4 hr 45 min
+Indianapolis, Oslo, Norway, $1,276, 15 hr 54 min
+Seoul, Oslo, Norway, $1,082, 29 hr 35 min
+Indianapolis, East Jerusalem, Palestine, None
+Seoul, East Jerusalem, Palestine, None
+Indianapolis, Panama City, Panama, $489, 28 hr 19 min
+Seoul, Panama City, Panama, $1,811, 23 hr 57 min
+Indianapolis, Lima, Peru, $797, 17 hr 25 min
+Seoul, Lima, Peru, $1,922, 25 hr 45 min
+Indianapolis, Quezon City, Philippines, $2,132, 26 hr 13 min
+Seoul, Quezon City, Philippines, $157, 4 hr 20 min
+Indianapolis, Warsaw, Poland, $900, 20 hr 20 min
+Seoul, Warsaw, Poland, $1,044, 36 hr 20 min
+Indianapolis, Lisbon, Portugal, $826, 14 hr 11 min
+Seoul, Lisbon, Portugal, $1,033, 40 hr 25 min
+Indianapolis, San Juan, Puerto Rico, $266, 7 hr 32 min
+Seoul, San Juan, Puerto Rico, $1,671, 25 hr 13 min
+Indianapolis, Doha, Qatar, $1,742, 19 hr 15 min
+Seoul, Doha, Qatar, $1,171, 33 hr 10 min
+Indianapolis, Saint-Denis, Réunion, None
+Seoul, Saint-Denis, Réunion, $2,865, 27 hr 20 min
+Indianapolis, Bucharest, Romania, $1,193, 21 hr 12 min
+Seoul, Bucharest, Romania, $809, 42 hr 50 min
+Indianapolis, San Marino, San Marino, None
+Seoul, San Marino, San Marino, None
+Indianapolis, São Tomé, São Tomé and Príncipe, None
+Seoul, São Tomé, São Tomé and Príncipe, None
+Indianapolis, Dakar, Senegal, $1,260, 18 hr 13 min
+Seoul, Dakar, Senegal, $1,834, 39 hr 55 min
+Indianapolis, Belgrade, Serbia, $1,366, 14 hr 58 min
+Seoul, Belgrade, Serbia, $711, 42 hr 5 min
+Indianapolis, Singapore, Singapore, None
+Seoul, Singapore, Singapore, None
+Indianapolis, Bratislava, Slovakia, $1,152, 21 hr 5 min
+Seoul, Bratislava, Slovakia, None
+Indianapolis, Ljubljana, Slovenia, $1,590, 14 hr 10 min
+Seoul, Ljubljana, Slovenia, $2,035, 27 hr 30 min
+Indianapolis, Johannesburg, South Africa, $1,659, 40 hr 58 min
+Seoul, Johannesburg, South Africa, $1,379, 32 hr 20 min
+Indianapolis, Madrid, Spain, $891, 11 hr 51 min
+Seoul, Madrid, Spain, $953, 36 hr
+Indianapolis, Basseterre, Saint Kitts and Nevis, None
+Seoul, Basseterre, Saint Kitts and Nevis, None
+Indianapolis, Castries, Saint Lucia, None
+Seoul, Castries, Saint Lucia, None
+Indianapolis, Kingstown, Saint Vincent and the Grenadines, None
+Seoul, Kingstown, Saint Vincent and the Grenadines, None
+Indianapolis, Paramaribo, Suriname, $3,951, 17 hr 55 min
+Seoul, Paramaribo, Suriname, None
+Indianapolis, Stockholm, Sweden, $901, 17 hr 47 min
+Seoul, Stockholm, Sweden, $1,048, 18 hr
+Indianapolis, Zurich, Switzerland, $996, 11 hr 42 min
+Seoul, Zurich, Switzerland, $1,120, 34 hr 15 min
+Indianapolis, Taipei, Taiwan, $1,376, 23 hr 55 min
+Seoul, Taipei, Taiwan, $218, 2 hr 35 min
+Indianapolis, Bangkok, Thailand, $2,176, 30 hr 23 min
+Seoul, Bangkok, Thailand, $249, 5 hr 35 min
+Indianapolis, Port of Spain, Trinidad and Tobago, None
+Seoul, Port of Spain, Trinidad and Tobago, None
+Indianapolis, Tunis, Tunisia, $1,611, 16 hr 40 min
+Seoul, Tunis, Tunisia, $1,046, 48 hr
+Indianapolis, Cockburn Town, Turks and Caicos Islands, None
+Seoul, Cockburn Town, Turks and Caicos Islands, None
+Indianapolis, London, United Kingdom, $672, 10 hr
+Seoul, London, United Kingdom, $1,027, 36 hr 5 min
+Indianapolis, Montevideo, Uruguay, $1,647, 20 hr 45 min
+Seoul, Montevideo, Uruguay, $3,449, 30 hr 30 min
+Indianapolis, Port Vila, Vanuatu, $10,220, 31 hr 19 min
+Seoul, Port Vila, Vanuatu, $3,874, 22 hr 5 min
+Indianapolis, Vatican City, Vatican City, None
+Seoul, Vatican City, Vatican City, None
+Indianapolis, Mbabane, Eswatini, $8,405, 45 hr 15 min
+Seoul, Mbabane, Eswatini, $2,835, 22 hr 40 min

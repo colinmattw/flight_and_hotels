@@ -1,0 +1,122 @@
+Albania, Tirana
+Andorra, Andorra la Vella
+Anguilla, The Valley
+Antigua and Barbuda, St. John's
+Argentina, Buenos Aires
+Armenia, Yerevan
+Aruba, Oranjestad
+Austria, Vienna
+Bahamas, Nassau
+Barbados, Bridgetown
+Belgium, Brussels
+Belize, Belize City
+Bermuda, Hamilton
+Bosnia and Herzegovina, Sarajevo
+Botswana, Gaborone
+Brazil, São Paulo
+British Virgin Islands, Road Town
+Brunei, Bandar Seri Begawan
+Bulgaria, Sofia
+Chile, Santiago
+Colombia, Bogotá
+Cook Islands, Avarua
+Costa Rica, San José
+Croatia, Zagreb
+Curaçao, Willemstad
+Cyprus, Nicosia
+Denmark, Copenhagen
+Dominica, Roseau
+Dominican Republic, Santo Domingo
+Ecuador, Quito
+El Salvador, San Salvador
+Estonia, Tallinn
+Falkland Islands, Stanley
+Faroe Islands, Tórshavn
+Fiji, Suva
+Finland, Helsinki
+France, Paris
+French Guiana, Cayenne
+French Polynesia, Papeete
+French West Indies, Fort-de-France
+Georgia, Tbilisi
+Germany, Berlin
+Gibraltar, Gibraltar
+Greece, Athens
+Greenland, Nuuk
+Grenada, St. George's
+Guam, Hagåtña
+Guatemala, Guatemala City
+Guyana, Georgetown
+Haiti, Port-au-Prince
+Honduras, Tegucigalpa
+Hong Kong, Hong Kong
+Hungary, Budapest
+Iceland, Reykjavik
+Indonesia, Jakarta
+Ireland, Dublin
+Israel, Jerusalem
+Italy, Rome
+Jamaica, Kingston
+Japan, Tokyo
+Kazakhstan, Nur-Sultan
+Kiribati, South Tarawa
+Kosovo, Pristina
+Kyrgyzstan, Bishkek
+Latvia, Riga
+Lesotho, Maseru
+Liechtenstein, Vaduz
+Lithuania, Vilnius
+Luxembourg, Luxembourg City
+Malaysia, Kuala Lumpur
+Malta, Valletta
+Mauritius, Port Louis
+Mayotte, Mamoudzou
+Mexico, Mexico City
+Micronesia, Palikir
+Moldova, Chișinău
+Monaco, Monaco
+Mongolia, Ulaanbaatar
+Montenegro, Podgorica
+Montserrat, Plymouth
+Morocco, Casablanca
+Netherlands, Amsterdam
+New Caledonia, Nouméa
+Nicaragua, Managua
+North Macedonia, Skopje
+Northern Mariana Islands, Saipan
+Norway, Oslo
+Palestine, East Jerusalem
+Panama, Panama City
+Peru, Lima
+Philippines, Quezon City
+Poland, Warsaw
+Portugal, Lisbon
+Puerto Rico, San Juan
+Qatar, Doha
+Réunion, Saint-Denis
+Romania, Bucharest
+San Marino, San Marino
+São Tomé and Príncipe, São Tomé
+Senegal, Dakar
+Serbia, Belgrade
+Singapore, Singapore
+Slovakia, Bratislava
+Slovenia, Ljubljana
+South Africa, Johannesburg
+Spain, Madrid
+Saint Kitts and Nevis, Basseterre
+Saint Lucia, Castries
+Saint Vincent and the Grenadines, Kingstown
+Suriname, Paramaribo
+Sweden, Stockholm
+Switzerland, Zurich
+Taiwan, Taipei
+Thailand, Bangkok
+Trinidad and Tobago, Port of Spain
+Tunisia, Tunis
+Turks and Caicos Islands, Cockburn Town
+United Kingdom, London
+Uruguay, Montevideo
+Vanuatu, Port Vila
+Vatican City, Vatican City
+Eswatini, Mbabane
