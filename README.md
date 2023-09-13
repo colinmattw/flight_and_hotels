@@ -13,5 +13,6 @@ This project introduced me to a few new concepts in programming as well refined 
 
 
 Description:
+
 A short program I wrote to assist in a linear algebra project which quickly and easily analyzed the frequencies of words in a given text. It takes an input file which was a .txt, and outputs a sorted csv file which contains a predetermined number of words and their frequencies. The program is run the following way: ~python3 word_freq.py <input_file.txt> <output_file.csv> <number_of_words>
 
