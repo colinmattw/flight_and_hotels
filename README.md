@@ -1,5 +1,5 @@
 # Flight_and_Hotels
-**Quick weekend project I made to analyze hundreds of international cities as potential travel destinations for my girlfriend and I. Used Selenium to create two webscraping programs that collected flight and hotel price data on hundreds of cities during a specific date range. Code is not intended to be readable or updated.**
+**Quick weekend project I made to analyze hundreds of international cities as potential travel destinations for my girlfriend and I. Used Selenium to create two webscraping programs that collected flight and hotel price data on hundreds of cities during a specific date range. This project was done quickly to accomplish one task and was not meant to be polished or readable.**
 ---------------------------------------------------
 **Created by Colin M Wareham**
 ---------------------------------------------------
