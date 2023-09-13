@@ -13,6 +13,7 @@ This project introduced me to a few new concepts in programming as well refined 
 
 
 Description:
+
 Since my girlfriend lives in South Korea, I had the goal of finding the best city in the world for us to travel to during a specific date range. Since we would be splitting all costs 50/50, I wanted to find the city with the cheapest combined price of our tickets, and also not too long travel time for either of us. I would also look at the average prices of hotels in each city.
 
 I started by finding a list of countries we could both travel to without a visa. There were 122 countries. Then, I had ChatGPT give me the raw txt list of each country's capital city, I then asked ChatGPT for the next 3 largest cities in each country, if it couldn't find all 3, it would list as many as it could. There were about 277 cities in total. I then fed this raw txt list of cities into a python program I wrote which uses Selenium and OS based macros to navigate to google.com/travel/flights. From there, the program would search for flights out of Chicago and Seoul to the destination city, during the specific date range. It would record both the shortest and cheapest flight it could find in two seperate lists. One that looked for the best flight time, and another that looked for the best price.
